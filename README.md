@@ -23,10 +23,10 @@ Unity Virtual Reality Projects, published by Packt
 <li>Gain introductory and advanced experience in Unity programming with the C# language</li> 
 </ul>
 <p><b ><u >Amazon Reviews</u></b></p> 
-<p><img src="image_00_002.png" /></p> 
-<p><img src="image_00_003.png" /></p> 
-<p><img src="image_00_004.png" /></p> 
-<p><img src="image_00_005.png" /></p> 
+<p><img src="images/image_00_002.png" /></p> 
+<p><img src="images/image_00_003.png" /></p> 
+<p><img src="images/image_00_004.png" /></p> 
+<p><img src="images/image_00_005.png" /></p> 
 <p><b ><u >Where can you buy this book?</u></b></p> 
 <ul><li><span >Amazon -<a href="https://www.amazon.com/Virtual-Reality-Projects-Jonathan-Linowes/dp/178398855X/ref=asap_bc?ie=UTF8">https://www.amazon.com/Virtual-Reality-Projects-Jonathan-Linowes/dp/178398855X/ref=asap_bc?ie=UTF8</a></span></li> 
 <li></li> 
@@ -34,7 +34,7 @@ Unity Virtual Reality Projects, published by Packt
 </ul>
 <p><b ><u >Get to Know the Author</u></b></p> 
 <p><i >Jonathan Linowes</i></p> 
-<p><img src="image_00_006.png" /></p> 
+<p><img src="images/image_00_006.png" /></p> 
 <p><i >Jonathan Linowes is principal at Parkerhill Reality Labs, an immersive media Indie studio. He is a veritable 3D graphics enthusiast, Unity developer, successful entrepreneur, and teacher. He has a fine arts degree from Syracuse University and a master's degree from the MIT Media Lab. He has founded several successful start-ups and held technical leadership positions at major corporations, including Autodesk Inc.</i></p> 
 <p><b ><i >Amazon</i></b><i > - </i><span ><a href="https://www.amazon.com/Jonathan-Linowes/e/B01DFHE4T2"><i >https://www.amazon.com/Jonathan-Linowes/e/B01DFHE4T2</i></a></span></p> 
 <p><b ><i >GitHub</i></b><i > - </i><span ><a href="https://github.com/linojon"><i >https://github.com/linojon</i></a></span></p> 
