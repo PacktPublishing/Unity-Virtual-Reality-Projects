@@ -14,8 +14,10 @@ Explore the world of virtual reality(VR) by building immersive and fun VR projec
 <li>Build various types of VR experiences, including diorama, first-person characters, riding on rails, 360 degree projections, and social VR</li> 
 <li>A project-based guide that teaches you to use Unity to develop VR applications, which can be experienced with devices such as the Oculus Rift or Google Cardboard</li> 
 </ul>
+
 ## Who is this book for?
 <p><span >If you're a non-programmer unfamiliar with 3D computer graphics or experienced in both but new to virtual reality and are interested in building your own VR games or applications, then this book is for you. Any experience in Unity is an advantage. If you feel this book is for you, get your <a href="https://www.amazon.com/Virtual-Reality-Projects-Jonathan-Linowes/dp/178398855X/ref=asap_bc?ie=UTF8">copy</a> today!</span></p> 
+
 ## What will you learn from this book?
 <ul><li>Create 3D scenes with Unity and Blender while learning about world space and scale</li> 
 <li>Build and run VR applications for consumer headsets including Oculus Rift and Google Cardboard</li> 
@@ -26,6 +28,7 @@ Explore the world of virtual reality(VR) by building immersive and fun VR projec
 <li>Learn about the technology and psychology of VR including rendering, performance and VR motion sickness</li> 
 <li>Gain introductory and advanced experience in Unity programming with the C# language</li> 
 </ul>
+
 ## Amazon Reviews
 <p><img src="images/image_00_002.png" /></p> 
 <p><img src="images/image_00_003.png" /></p> 
@@ -33,9 +36,9 @@ Explore the world of virtual reality(VR) by building immersive and fun VR projec
 <p><img src="images/image_00_005.png" /></p> 
 <p><b ><u >Where can you buy this book?</u></b></p> 
 <ul><li><span >Amazon -<a href="https://www.amazon.com/Virtual-Reality-Projects-Jonathan-Linowes/dp/178398855X/ref=asap_bc?ie=UTF8">https://www.amazon.com/Virtual-Reality-Projects-Jonathan-Linowes/dp/178398855X/ref=asap_bc?ie=UTF8</a></span></li> 
-<li></li> 
 <li><span >Packt- <a href="https://www.packtpub.com/game-development/unity-virtual-reality-projects?utm_source=github&amp;utm_medium=authorengagement&amp;utm_campaign=9781783988556">https://www.packtpub.com/game-development/unity-virtual-reality-projects?utm_source=github&amp;utm_medium=authorengagement&amp;utm_campaign=9781783988556</a> </span></li> 
 </ul>
+
 ## Get to Know the Author
 <p><i>Jonathan Linowes</i></p> 
 <p><img src="images/image_00_006.png" /></p> 
