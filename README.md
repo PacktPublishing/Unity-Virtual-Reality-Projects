@@ -1,5 +1,8 @@
-# Unity-Virtual-Reality-Projects
-Unity Virtual Reality Projects, published by Packt
+<img align="right" width="20%" height="20%" src="images/image_00_001.png" />
+
+# Unity 3D
+## Unity-Virtual-Reality-Projects
+Explore the world of virtual reality(VR) by building immersive and fun VR projects using Unity 3D
 
 <p><b ><u >What is this book about?</u></b></p> 
 <p>What is consumer "virtual reality"? Wearing a head-mounted display you view stereoscopic 3D scenes. You can look around by moving your head, and walk around using hand controls or motion sensors. You are engaged in a fully immersive experience. On the other hand, Unity is a powerful game development engine that provides a rich set of features such as visual lighting, materials, physics, audio, special effects, and animation for creating 2D and 3D games. Unity 5 has become the leading platform for building virtual reality games, applications, and experiences for this new generation of consumer VR devices.</p> 
