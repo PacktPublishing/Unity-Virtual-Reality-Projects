@@ -46,3 +46,7 @@ Explore the world of virtual reality(VR) by building immersive and fun VR projec
 <p><b ><i >Amazon</i></b><i > - </i><span ><a href="https://www.amazon.com/Jonathan-Linowes/e/B01DFHE4T2"><i >https://www.amazon.com/Jonathan-Linowes/e/B01DFHE4T2</i></a></span></p> 
 <p><b ><i >GitHub</i></b><i > - </i><span ><a href="https://github.com/linojon"><i >https://github.com/linojon</i></a></span></p> 
 </div> </div></root>
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788478809">https://packt.link/free-ebook/9781788478809 </a> </p>
